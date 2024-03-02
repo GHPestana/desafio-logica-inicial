@@ -46,13 +46,3 @@ switch(nivelHeroi){
 
 console.log("O Herói de nome: "+nomeHeroi + " está no nível de" + nivelHeroi)
 
-/*
-
-
-Se XP for maior ou igual a 10.001 = Radiante
-
-## Saída
-
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
-*/
